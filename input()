@@ -1,0 +1,10 @@
+input(): input function is used to take input from user. By default input() is string
+
+
+
+
+name=input("Hello enter your name:")
+print(name)
+print("Hello there")
+print("Hello\nthere")
+print("ITEM \tQTY\nApple\t 15\nOrange\t 5")
