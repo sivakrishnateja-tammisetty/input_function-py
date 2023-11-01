@@ -1,4 +1,6 @@
-input(): input function is used to take input from user. By default input() is string
+input():
+          .input function is used to take input from user. 
+          .By default input()  function is string
 
 
 
